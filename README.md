@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+  - Nothing at the moment.
+- 🌱 I’m currently learning ...
+  - Machine Learning, Reinforcement learning, and preparing for the GMAT
+- 👯 I’m looking to collaborate on ...
+  - Projects involving finance, machine learning, or system utils written in Python, C, C++, or Java.
+- 🤔 I’m looking for help with ...
+  - Nothing at the moment.
+ 
+- 🖥 Programming Languages
+  - Python
+  - C++
+  - Java
+  - Apex
+  - XQuery
+  - C
+
+
 <!--
 **brandohardesty/brandohardesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
